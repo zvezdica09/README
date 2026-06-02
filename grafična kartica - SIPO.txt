@@ -1,0 +1,27 @@
+GRAFIČNA KARTICA
+GPU je kratica za Graphics Processing Unit, kar v slovenščini pomeni grafični procesor. 
+Gre za ključno komponento, ki omogoča prikaz slik, videa in grafike na zaslonu računalnika. 
+Brez grafične kartice ne bi videli uporabniškega vmesnika operacijskega sistema, iger, 
+videoposnetkov ali celo spletnih strani. Je storjna oprema oz. del računalnika, ki skrbi za prikaz
+ slike na zaslonu. Nekateri računalniki jo imajo integrirani na matični plošči, ostali pa nameščeno 
+samostojno preko razširjenih rež. 
+Večina grafičnih kartic uporablja RAM - VRAM. Ta umogoča večje hitrosti kot navadni RAM. V njem
+se nahaja slika, ki gre na zaslon. 
+
+ZGODOVINA
+Prvi je grafično kartico vpeljal proizvajalec Apple v modelu Apple II. Prvi IBM PC računalnik so 
+imeli monokromatske (enobarvne) grafične kartice. Razvoj grafičnih kartic sega v 70. desetletje prejšnjega
+stoletje. Prvič so se pojavile v arkadnih napravah. Leta 1981 je IBM izdelal “Monochrome Display Adapter”, ki 
+naj bi veljal za prvo pravo grafično kartico na svetu. Ni bila sposobna prikazovanja prave grafike, ampak 
+je prikazovala 80 stolpcev in 25 vrstic raznih črk in znakov v zeleni barvi na črnem ozadju. 
+
+SESTAVNI DELI
+Grafična kartica je sestavljena iz tiskanega vezje, kjer se nahajajo:
+GPU - procesor na grafični kartici,
+Video BIOS - je je del yagonske programske kode,
+VRAM - grafični pomnilnik,
+Priključek (vodilo),
+Hladilni sistem - ki služi za hlajenje grafične kartice, da se ne poškoduje. Hlajenje je lahko pasivno, aktivno
+in vodno,
+Dodatni napajalni sistem - grafične kartice se napajajo preko vodil (75W) vendar, ker električna poraba
+teh kartic narašča potrebujemo dodatni napajalnik.
